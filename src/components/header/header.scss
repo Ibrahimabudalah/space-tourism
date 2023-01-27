@@ -17,7 +17,11 @@
         width: 1.5rem;
         height: 1.313rem;
     }
-    &__closed{
-        // display: none;
+    &__list{
+        display: flex;
+        flex-direction: column;
+    }
+    &__list--show{
+        display: none;
     }
 }
