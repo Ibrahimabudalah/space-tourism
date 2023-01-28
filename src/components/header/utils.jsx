@@ -1,26 +1,22 @@
 export const pages = [
   {
-    title: " HOME",
-    number: "00",
+    title: "00 HOME",
     path: "/",
-    cName: "nav__item",
+    cName: "header__item",
   },
   {
-    title: " DESTINATION",
-    number: "01",
+    title: "01 DESTINATION",
     path: "",
-    cName: "nav__item",
+    cName: "header__item",
   },
   {
-    title: " CREW",
-    number: "02",
+    title: "02 CREW",
     path: "",
-    cName: "nav__item",
+    cName: "header__item",
   },
   {
-    title: " TECHNOLOGY",
-    number: "03",
+    title: "03 TECHNOLOGY",
     path: "",
-    cName: "nav__item",
+    cName: "header__item",
   },
 ];
